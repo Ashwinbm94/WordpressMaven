@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24802" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:15:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24802" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:15:02 IST">
+      <class name="com.wordpress.testcases.LoginWordpress">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="setup" is-config="true" duration-ms="15644" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:14:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wordpressLogin()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="wordpressLogin" duration-ms="7666" started-at="2020-07-23T00:14:53 IST" finished-at="2020-07-23T00:15:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wordpressLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="tearDown" is-config="true" duration-ms="1400" started-at="2020-07-23T00:15:01 IST" finished-at="2020-07-23T00:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wordpress.testcases.LoginWordpress -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
