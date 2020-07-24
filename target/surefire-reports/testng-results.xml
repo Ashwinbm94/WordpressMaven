@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24802" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:15:02 IST">
+  <suite name="Suite" duration-ms="58920" started-at="2020-07-24T12:03:52 IST" finished-at="2020-07-24T12:04:51 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24802" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:15:02 IST">
+    <test name="Test" duration-ms="58920" started-at="2020-07-24T12:03:52 IST" finished-at="2020-07-24T12:04:51 IST">
       <class name="com.wordpress.testcases.LoginWordpress">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="setup" is-config="true" duration-ms="15644" started-at="2020-07-23T00:14:37 IST" finished-at="2020-07-23T00:14:53 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="setup" is-config="true" duration-ms="42363" started-at="2020-07-24T12:03:52 IST" finished-at="2020-07-24T12:04:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="wordpressLogin()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="wordpressLogin" duration-ms="7666" started-at="2020-07-23T00:14:53 IST" finished-at="2020-07-23T00:15:01 IST">
+        <test-method status="PASS" signature="wordpressLogin()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="wordpressLogin" duration-ms="12577" started-at="2020-07-24T12:04:34 IST" finished-at="2020-07-24T12:04:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wordpressLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="tearDown" is-config="true" duration-ms="1400" started-at="2020-07-23T00:15:01 IST" finished-at="2020-07-23T00:15:02 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.testcases.LoginWordpress@2b4bac49]" name="tearDown" is-config="true" duration-ms="3930" started-at="2020-07-24T12:04:47 IST" finished-at="2020-07-24T12:04:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

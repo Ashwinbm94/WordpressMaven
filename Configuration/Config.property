@@ -1,9 +1,9 @@
-ExcelPath=F:\\WordpressLogin.xlsx
+ExcelPath=./WordpressLogin.xlsx
 
 ExcelSheetname=LoginDetails
 
 Browser=chrome
 
-ChromeDriverPath=F:\\Drivers\\chromedriver.exe
+ChromeDriverPath=./Drivers/chromedriver.exe
 
 URL=http://demosite.center/wordpress/wp-login.php
