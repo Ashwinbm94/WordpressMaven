@@ -63,9 +63,9 @@ public class Posts {
 		BrowserFactory.waitForPageLoad(driver);
 
 		postTitle.sendKeys("Testing Add New Post");
-		// driver.switchTo().frame(contentIFrame);
+		driver.switchTo().frame(contentIFrame);
 		content.sendKeys("This is my first new page");
-		// driver.switchTo().defaultContent();
+		driver.switchTo().defaultContent();
 
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("$(arguments[0]).click();", publish);

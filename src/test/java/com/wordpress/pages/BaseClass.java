@@ -39,7 +39,7 @@ public class BaseClass {
 
 	@AfterClass
 	public void tearDown() {
-		// BrowserFactory.quitBrowser(driver);
+		BrowserFactory.quitBrowser(driver);
 		excelreader.closeExcelWB();
 	}
 
