@@ -1,6 +1,9 @@
 com\wordpress\pages\LoginPage.class
 com\wordpress\utility\ExcelFileReader.class
-com\wordpress\utility\BrowserFactory.class
 com\wordpress\utility\ConfigFileReader.class
-com\wordpress\testcases\LoginWordpress.class
 com\wordpress\pages\BaseClass.class
+com\wordpress\utility\Utility.class
+com\wordpress\pages\Posts.class
+com\wordpress\utility\BrowserFactory$1.class
+com\wordpress\utility\BrowserFactory.class
+com\wordpress\testcases\LoginWordpress.class
